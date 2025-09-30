@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Venv
+.venv/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Keep outputs tracked (we add a .gitkeep), so do NOT ignore out/
